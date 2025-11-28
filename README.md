@@ -50,4 +50,4 @@ python main.py
 - **UI freeze**: long operations should stay responsive; if they don’t, cancel and retry (very large videos can still be heavy).
 
 ## License
-
+UNDER MY LICENSE
